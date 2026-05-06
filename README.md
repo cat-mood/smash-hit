@@ -32,4 +32,4 @@
 
 ## Видео демонстрации
 
-![demo video](demo.mp4)
+![demo video](demo.gif)
